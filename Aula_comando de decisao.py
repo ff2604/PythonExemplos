@@ -1,4 +1,4 @@
-#versão 2
+#versão 3
 aula="Curso"
 print(bool(aula))  #retorna true devido ter conteudo
 
